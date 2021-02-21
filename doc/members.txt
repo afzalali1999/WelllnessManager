@@ -1,0 +1,29 @@
+Name: Steven Jackling
+Account: sj3152
+Have you been on co-op? No
+List 1 to 3 programming languages you know: Java HTML Javascript
+List 1 to 3 hobbies or interests: Reading Gaming Gardening
+
+Name: Catherine Liu
+Account: cl1252
+Have you been on co-op? no
+List 1 to 3 programming languages you know: HTML Python Java
+List 1 to 3 hobbies or interests: Traveling Baking Cooking
+
+Name: Afzal Ali
+Account: ama3590
+Have you been on co-op? no
+List 1 to 3 programming languages you know: Java Python Javascript
+List 1 to 3 hobbies or interests: Cooking Gaming Soccer
+
+Name: Seth Landers
+Account: sdl1009
+Have you been on co-op? No
+List 1 to 3 programming languages you know: Python Java HTML
+List 1 to 3 hobbies or interests: Cooking Sports Ballroom
+
+Name: Stephen Morrissey
+Account: sjm3524
+Have you been on co-op? No
+List 1 to 3 programming languages you know: Python Java C#
+List 1 to 3 hobbies or interests: Skateboarding Gaming Soccer
